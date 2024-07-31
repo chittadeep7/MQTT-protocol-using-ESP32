@@ -8,7 +8,7 @@ You can send the data periodically =>>  by using a separate task and an eventgro
 │   ├── CMakeLists.txt
 │   └── main.c
 |   |__ wifi.c
-|   |__ mpu6050.c
+|   |__ MPU6050.c
 └── README.md       
 ```
 
