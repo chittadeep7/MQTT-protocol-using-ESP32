@@ -1,7 +1,7 @@
 #define CONNECT (1 << 0)
 #define FAIL    (1 << 1)
 #define C       (1 << 2)
-#define SSID    "Wokwi-GUEST"
+#define SSID    ""
 #define PASS    ""
 
 
